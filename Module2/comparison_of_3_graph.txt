@@ -1,0 +1,7 @@
+check 2 nodes connected or not:
+    -> adj_mat  O(1)
+    -> adj_list  O(n)
+    -> edge_list  O(n)
+
+all the connected nodes from a nodes
+    -> adj_list
